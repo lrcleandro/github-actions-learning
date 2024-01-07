@@ -22,4 +22,4 @@ jobs:
           RUN_LOCAL: true
           LINTER_RULES_PATH: .pylintrc
           VALIDATE_ALL_CODEBASE: false
-          #DEFAULT_LINTER_RULES: "false"
+          DEFAULT_LINTER_RULES: "false"
