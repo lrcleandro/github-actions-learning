@@ -19,7 +19,4 @@ jobs:
         env:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          RUN_LOCAL: true
-          LINTER_RULES_PATH: .pylintrc
           VALIDATE_ALL_CODEBASE: false
-          DEFAULT_LINTER_RULES: "false"
