@@ -1,2 +1,3 @@
-pylint: disable=E0602
+[MESSAGES CONTROL]
+disable=E0602
 
